@@ -38,7 +38,7 @@ Uso:
    - Modelo
    - Operación para la creación de los registros
    
-- Ejecutar el archivo mediante `node config/seeds.js`
+- Ejecutar el archivo mediante `node seeds/seeds.js`
   
 ## Apuntes finales
 - La etiqueta `form` dispone de dos atributos: `action` (destino de la información) y `method` (método de envío)
