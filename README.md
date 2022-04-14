@@ -3,7 +3,9 @@
 
 ## Main points: Ironlauncher
 
-El [Ironlauncher](https://www.npmjs.com/package/ironlauncher) es un generador profesional de servidores. Instalado como un paquete global `npm i ironlauncher -g` permite disponer de un boilerplate completo para servidores ExpressJS. 
+El [Ironlauncher](https://www.npmjs.com/package/ironlauncher) es un generador profesional de servidores. 
+
+Instalado como un paquete global `npm i ironlauncher -g` permite disponer de un boilerplate completo para servidores ExpressJS. 
 
 Uso:
 - Comenzar un proyecto con el comando `ironlauncher nombre-proyecto`.
